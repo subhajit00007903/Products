@@ -1,0 +1,23 @@
+[
+    {"item": "Apple", "pieces": 10, "from_where": "California"},
+    {"item": "Banana", "pieces": 20, "from_where": "Mexico"},
+    {"item": "Cherry", "pieces": 30, "from_where": "Washington"},
+    {"item": "Date", "pieces": 40, "from_where": "Morocco"},
+    {"item": "Elderberry", "pieces": 50, "from_where": "England"},
+    {"item": "Fig", "pieces": 60, "from_where": "Turkey"},
+    {"item": "Grape", "pieces": 70, "from_where": "Italy"},
+    {"item": "Honeydew", "pieces": 80, "from_where": "Spain"},
+    {"item": "Iceberg lettuce", "pieces": 90, "from_where": "USA"},
+    {"item": "Jackfruit", "pieces": 100, "from_where": "India"},
+    {"item": "Apple", "pieces": 10, "from_where": "California"},
+    {"item": "Banana", "pieces": 20, "from_where": "Mexico"},
+    {"item": "Cherry", "pieces": 30, "from_where": "Washington"},
+    {"item": "Date", "pieces": 40, "from_where": "Morocco"},
+    {"item": "Elderberry", "pieces": 50, "from_where": "England"},
+    {"item": "Fig", "pieces": 60, "from_where": "Turkey"},
+    {"item": "Grape", "pieces": 70, "from_where": "Italy"},
+    {"item": "Honeydew", "pieces": 80, "from_where": "Spain"},
+    {"item": "Iceberg lettuce", "pieces": 90, "from_where": "USA"},
+    {"item": "Jackfruit", "pieces": 100, "from_where": "India"}
+
+]
